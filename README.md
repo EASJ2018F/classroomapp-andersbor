@@ -9,7 +9,7 @@ Via linket fra Github. Clone “projeket” fra GitHub til din egen maskine
 
 Projektet indeholder kun templaten til en console applikation. Din opgave er at fylde den med kode.
 
-## Opgave 1:
+## Opgave 1: 
 
 Tilføj en klasse (public) “Studerende”, den skal indeholde tre properties. Disse tre properties skal være synlige uden for klassen men må kun sættes indenfor denne klasse.
 
@@ -18,11 +18,11 @@ Tilføj en klasse (public) “Studerende”, den skal indeholde tre properties. 
 * int fødselsdag
 
 Du skal også have en constructor som tager tre parametre så du kan få sat dine properties.
-Husk at comitte og pushe til Git repo.
+Husk at comitte og pushe til Git repo. :octocat
 
 
 ## Opgave 2:
-Tilføj en ny klasse “KlasseRum”, med følgende properties.
+Tilføj en ny klasse “KlasseRum”, med følgende properties. :octocat
 
 * string KlasseNavn
 * List\<Studerende>
