@@ -1,4 +1,4 @@
- # ClassRoom opgave
+: # ClassRoom opgave
 :
 
 **Formål: at genopfriske begreberne class, properties, constructor, private/public, if/switch, git**
@@ -18,7 +18,7 @@ Tilføj en klasse (public) “Studerende”, den skal indeholde tre properties. 
 * int fødselsdag
 
 Du skal også have en constructor som tager tre parametre så du kan få sat dine properties.
-Husk at comitte og pushe til Git repo. :octocat
+Husk at comitte og pushe til Git repo. :octocat:
 
 
 ## Opgave 2:
@@ -31,7 +31,7 @@ Tilføj en ny klasse “KlasseRum”, med følgende properties. :octocat:
 Opret en default constructor.
 
 
-Husk at comitte og pushe til Git repo.
+Husk at comitte og pushe til Git repo. :octocat:
 
 
 ## Opgave 3:
@@ -47,7 +47,7 @@ SemesterStart: 28-8-2017
 Tilføj dig selv og dem du sidder ved siden af i listen over studerende
 
 
-Husk at comitte og pushe til Git repo.
+Husk at comitte og pushe til Git repo. :octocat:
 
 
 ## Opgave 4:
@@ -75,7 +75,7 @@ hint. se om du kan kode det via et link statement
 
 Kald metoden.
 
-Husk at comitte og pushe til Git repo.
+Husk at comitte og pushe til Git repo. :octocat:
 
 
 ## Ekstra: Opgave 7
