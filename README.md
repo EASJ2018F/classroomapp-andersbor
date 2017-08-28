@@ -1,5 +1,4 @@
-: # ClassRoom opgave
-:
+# ClassRoom opgave
 
 **Formål: at genopfriske begreberne class, properties, constructor, private/public, if/switch, git**
 
@@ -22,7 +21,7 @@ Husk at comitte og pushe til Git repo. :octocat:
 
 
 ## Opgave 2:
-Tilføj en ny klasse “KlasseRum”, med følgende properties. :octocat:
+Tilføj en ny klasse “KlasseRum”, med følgende properties.
 
 * string KlasseNavn
 * List\<Studerende> Klasseliste
