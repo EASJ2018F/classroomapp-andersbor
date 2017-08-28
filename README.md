@@ -25,7 +25,7 @@ Husk at comitte og pushe til Git repo. :octocat
 Tilføj en ny klasse “KlasseRum”, med følgende properties. :octocat
 
 * string KlasseNavn
-* List\<Studerende>
+* List\<Studerende> Klasseliste
 * DateTime SemesterStart
 
 Opret en default constructor.
