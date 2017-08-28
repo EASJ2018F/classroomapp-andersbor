@@ -1,7 +1,7 @@
  # ClassRoom opgave
 
 
-Formål: at genopfriske begreberne class, properties, constructor, private/public, if/switch, git
+**Formål: at genopfriske begreberne class, properties, constructor, private/public, if/switch, git**
 
 
 Via linket fra Github. Clone “projeket” fra GitHub til din egen maskine
