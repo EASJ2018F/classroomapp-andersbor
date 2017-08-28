@@ -25,7 +25,7 @@ Husk at comitte og pushe til Git repo.
 Tilføj en ny klasse “KlasseRum”, med følgende properties.
 
 * string KlasseNavn
-* List<Studerende>
+* List\<Studerende>
 * DateTime SemesterStart
 
 Opret en default constructor.
