@@ -1,15 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ClassRoom
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            Console.WriteLine("hallo");
+   
+            Student st = new Student {Name = "Anders", Fødselsdag = 8, Fødselsmåned = 3};
+
+            Console.WriteLine(st);
         }
     }
 }
